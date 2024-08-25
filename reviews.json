@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Thorne",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Dr. Thorne's lectures are engaging and informative. She brings complex concepts to life with real-world examples."
+    },
+    {
+      "professor": "Prof. Michael Chang",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor! Prof. Chang's passion for coding is contagious. His projects are challenging but incredibly rewarding."
+    },
+    {
+      "professor": "Dr. Olivia Martinez",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Dr. Martinez knows her stuff, but her lectures can be a bit dry. More interactive elements would help."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "History",
+      "stars": 5,
+      "review": "Prof. Wilson makes history come alive! His storytelling approach makes even the most obscure events fascinating."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "subject": "Chemistry",
+      "stars": 4,
+      "review": "Dr. Lee is patient and thorough. Her lab sessions are well-organized and help reinforce lecture material."
+    },
+    {
+      "professor": "Prof. Robert Green",
+      "subject": "Economics",
+      "stars": 2,
+      "review": "Prof. Green's course is overly theoretical. More real-world applications would greatly improve the class."
+    },
+    {
+      "professor": "Dr. Lisa Brown",
+      "subject": "English Literature",
+      "stars": 5,
+      "review": "Dr. Brown's passion for literature is infectious. Her analysis of texts opens up new perspectives I never considered."
+    },
+    {
+      "professor": "Prof. David Kim",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Prof. Kim explains complex concepts clearly. His problem-solving sessions are particularly helpful."
+    },
+    {
+      "professor": "Dr. Rachel Goldstein",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Dr. Goldstein's lectures are informative but could use more structure. Her assignments are thought-provoking."
+    },
+    {
+      "professor": "Prof. Thomas Wright",
+      "subject": "Mathematics",
+      "stars": 5,
+      "review": "Prof. Wright has a gift for making abstract math concepts understandable. His office hours are incredibly helpful."
+    },
+    {
+      "professor": "Dr. Anna Petrova",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Dr. Petrova brings current events into her lectures, making the subject highly relevant and engaging."
+    },
+    {
+      "professor": "Prof. John Smith",
+      "subject": "Philosophy",
+      "stars": 2,
+      "review": "Prof. Smith's lectures are often confusing. He seems to assume too much prior knowledge from students."
+    },
+    {
+      "professor": "Dr. Maria Garcia",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Dr. Garcia's enthusiasm for art is contagious. Her virtual museum tours are a highlight of the course."
+    },
+    {
+      "professor": "Prof. Samuel Johnson",
+      "subject": "Engineering",
+      "stars": 4,
+      "review": "Prof. Johnson's practical approach to engineering problems is refreshing. His industry experience adds value to the course."
+    },
+    {
+      "professor": "Dr. Elizabeth Taylor",
+      "subject": "Environmental Science",
+      "stars": 3,
+      "review": "Dr. Taylor's course content is solid, but her delivery can be monotonous at times. Field trips are a great addition."
+    },
+    {
+      "professor": "Prof. Ahmed Hassan",
+      "subject": "Linguistics",
+      "stars": 5,
+      "review": "Prof. Hassan's lectures are captivating. His multilingual approach brings a unique perspective to language study."
+    },
+    {
+      "professor": "Dr. Nancy White",
+      "subject": "Anthropology",
+      "stars": 4,
+      "review": "Dr. White's research experience enriches her lectures. The group projects foster great discussions."
+    },
+    {
+      "professor": "Prof. George Baker",
+      "subject": "Business",
+      "stars": 2,
+      "review": "Prof. Baker's course feels outdated. More focus on current business trends would be beneficial."
+    },
+    {
+      "professor": "Dr. Laura Chen",
+      "subject": "Neuroscience",
+      "stars": 5,
+      "review": "Dr. Chen's explanations of complex brain functions are clear and fascinating. Her lab demonstrations are unforgettable."
+    },
+    {
+      "professor": "Prof. Alan Turing",
+      "subject": "Computer Science",
+      "stars": 0,
+      "review": "This must be an error. Prof. Turing lived in the early 20th century and couldn't be teaching now."
+    }
+  ]
+}
